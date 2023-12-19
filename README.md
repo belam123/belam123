@@ -6,7 +6,7 @@ My journey in web development began with a deep fascination for creating seamles
 I believe in teamwork and communication. I love working with others to bring ideas to life. I pay attention to details to make sure everything works as it should. I am eager to contribute my skills to create fantastic online experiences.
 
 Excited about the opportunity to grow and make a positive impact, I am confident in my ability to bring enthusiasm and dedication to your team. Let’s build something great together.</p>
-<div><img width=200 src="https://i.pinimg.com/originals/59/0e/10/590e1099ee777de3f55e5c941d940921.gif" alt="ERROR 404" />
+<div><img width=200 src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif" alt="ERROR 404" />
    <img align="right" alt="Belam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belam123&show_icons=true&hide_border=true" />
 
 </div>
