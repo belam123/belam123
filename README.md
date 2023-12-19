@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Belam and I'm a full-stack developer🚀, from Kenya</h1>
+<h1 align="left">Hi 👋! My name is Belam and I'm a full-stack developer🚀</h1>
 <p>As a dedicated web developer💻, I specialize in transforming ideas into visually appealing digital experiences. With a solid foundation in front-end and back-end technologies, I bring forth a comprehensive skill set that combines creativity with technical expertise.
 
 My journey in web development began with a deep fascination for creating seamless, user- centric interfaces. Over the months, I have honed my skills in HTML,CSS,Javascript and Kotlin and various frameworks to build responsive and dynamic websites and android applications.
