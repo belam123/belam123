@@ -1,4 +1,11 @@
 <h1 align="left">Hi 👋! My name is Belam and I'm a full-stack developer🚀, from Kenya</h1>
+<p>As a dedicated web developer💻, I specialize in transforming ideas into visually appealing digital experiences. With a solid foundation in front-end and back-end technologies, I bring forth a comprehensive skill set that combines creativity with technical expertise.
+
+My journey in web development began with a deep fascination for creating seamless, user- centric interfaces. Over the months, I have honed my skills in HTML,CSS,Javascript and Kotlin and various frameworks to build responsive and dynamic websites and android applications.
+
+I believe in teamwork and communication. I love working with others to bring ideas to life. I pay attention to details to make sure everything works as it should. I am eager to contribute my skills to create fantastic online experiences.
+
+Excited about the opportunity to grow and make a positive impact, I am confident in my ability to bring enthusiasm and dedication to your team. Let’s build something great together.</p>
 <div><img width=200 src="https://i.pinimg.com/originals/59/0e/10/590e1099ee777de3f55e5c941d940921.gif" alt="ERROR 404" />
    <img align="right" alt="Belam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belam123&show_icons=true&hide_border=true" />
 
