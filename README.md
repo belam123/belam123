@@ -11,7 +11,6 @@ I believe in teamwork and communication. I love working with others to bring ide
 Excited about the opportunity to grow and make a positive impact, I am confident in my ability to bring enthusiasm and dedication to your team. Let’s build something great together.</p>
 <div>
     <img style="display: block; margin: auto;" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif" alt="ERROR 404" />
-## My Githun stats
    <img align="left" alt="Belam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belam123&show_icons=true&hide_border=true" />
 
 </div>
