@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Hi <img src="https://media.giphy.com/media/SvWqvlbtM9tLhG8h2M/giphy.gif" width="40" height="40" />! My name is Belam and I'm a full-stack developer🚀</h1>
+  <h1>Hi <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="40" height="40" />! My name is Belam and I'm a full-stack developer🚀</h1>
 </div>
 
 <p>As a dedicated web developer💻, I specialize in transforming ideas into visually appealing digital experiences. With a solid foundation in front-end and back-end technologies, I bring forth a comprehensive skill set that combines creativity with technical expertise.
