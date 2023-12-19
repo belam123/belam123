@@ -4,5 +4,23 @@
 
 </div>
 
+<div>
+  <h2>Frontend Technologies</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <!-- Add more frontend technologies as needed -->
+  </ul>
+</div>
 
+<div>
+  <h2>Backend Technologies</h2>
+  <ul>
+    <li>Node.js</li>
+    <li>Express.js</li>
+    <li>MySQL</li>
+    <!-- Add more backend technologies as needed -->
+  </ul>
+</div>
 ###
