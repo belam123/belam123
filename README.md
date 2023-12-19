@@ -14,6 +14,10 @@ Excited about the opportunity to grow and make a positive impact, I am confident
    <img align="left" alt="Belam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belam123&show_icons=true&hide_border=true" />
 
 </div>
+<div style="text-align: center;">
+  <h2>Most Used Languages</h2>
+  <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belam123&layout=compact" />
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -58,7 +62,4 @@ Excited about the opportunity to grow and make a positive impact, I am confident
 </td></tr></table>  
 
 <br/>  
-<div style="text-align: center;">
-  <h2>Most Used Languages</h2>
-  <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belam123&layout=compact" />
-</div>
+
