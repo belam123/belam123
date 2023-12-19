@@ -1,5 +1,7 @@
-<h1 align="left">Hi 👋! My name is Belam and I'm a full-stack developer🚀</h1>
-<img style="display: block; margin: auto;" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif" alt="ERROR 404" />
+<div style="text-align: center;">
+  <h1>Hi 👋! My name is Belam and I'm a full-stack developer🚀</h1>
+  <img style="display: block; margin: auto;" src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif" alt="ERROR 404" />
+</div>
 
 <p>As a dedicated web developer💻, I specialize in transforming ideas into visually appealing digital experiences. With a solid foundation in front-end and back-end technologies, I bring forth a comprehensive skill set that combines creativity with technical expertise.
 
