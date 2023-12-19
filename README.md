@@ -16,7 +16,7 @@ Excited about the opportunity to grow and make a positive impact, I am confident
 </div>
 <div style="text-align: center;">
   <h2>Most Used Languages</h2>
-  <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belam123&layout=compact" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=belam123&layout=compact" />
 </div>
 
 ## My Skill Set  
