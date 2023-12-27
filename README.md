@@ -54,7 +54,8 @@ Excited about the opportunity to grow and make a positive impact, I am confident
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+## My stats
 <div>
    <img align="center" alt="Belam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belam123&show_icons=true&hide_border=true" />
 </div>
