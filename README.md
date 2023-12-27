@@ -14,10 +14,10 @@ Excited about the opportunity to grow and make a positive impact, I am confident
    <img align="center" alt="Belam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belam123&show_icons=true&hide_border=true" />
 </div>
 
-## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
-
+## My Skill Set  
 
 ### Frontend  
 <div align="center">  
