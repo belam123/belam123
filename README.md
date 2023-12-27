@@ -11,7 +11,7 @@ I believe in teamwork and communication. I love working with others to bring ide
 Excited about the opportunity to grow and make a positive impact, I am confident in my ability to bring enthusiasm and dedication to your team. Let’s build something great together.</p>
 
 <div>
-   <img align="left" alt="Belam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belam123&show_icons=true&hide_border=true" />
+   <img align="center" alt="Belam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belam123&show_icons=true&hide_border=true" />
 </div>
 
 ## My Skill Set  
